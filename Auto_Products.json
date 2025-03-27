@@ -1,0 +1,702 @@
+[
+  {
+    "Product ID": "AUTO001",
+    "Name": "Starter Motor",
+    "Unit Price": 243.69,
+    "Stock Quantity": 50,
+    "Description": "High-quality Starter Motor designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO002",
+    "Name": "Tailgate Handle",
+    "Unit Price": 918.04,
+    "Stock Quantity": 14,
+    "Description": "High-quality Tailgate Handle designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO003",
+    "Name": "Roll Cage",
+    "Unit Price": 807.14,
+    "Stock Quantity": 89,
+    "Description": "High-quality Roll Cage designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO004",
+    "Name": "Big Brake Kit",
+    "Unit Price": 195.9,
+    "Stock Quantity": 9,
+    "Description": "High-quality Big Brake Kit designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO005",
+    "Name": "Brake Pads",
+    "Unit Price": 69.76,
+    "Stock Quantity": 17,
+    "Description": "High-quality Brake Pads designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO006",
+    "Name": "All-Terrain Tires",
+    "Unit Price": 171.2,
+    "Stock Quantity": 33,
+    "Description": "High-quality All-Terrain Tires designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO007",
+    "Name": "PCV Valve",
+    "Unit Price": 608.62,
+    "Stock Quantity": 16,
+    "Description": "High-quality PCV Valve designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO008",
+    "Name": "Oil Filter",
+    "Unit Price": 439.42,
+    "Stock Quantity": 66,
+    "Description": "High-quality Oil Filter designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO009",
+    "Name": "Side Mirror",
+    "Unit Price": 81.77,
+    "Stock Quantity": 40,
+    "Description": "High-quality Side Mirror designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO010",
+    "Name": "Underbody Lights",
+    "Unit Price": 690.48,
+    "Stock Quantity": 28,
+    "Description": "High-quality Underbody Lights designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO011",
+    "Name": "Sway Bar Link",
+    "Unit Price": 772.26,
+    "Stock Quantity": 39,
+    "Description": "High-quality Sway Bar Link designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO012",
+    "Name": "Power Steering Pump",
+    "Unit Price": 740.41,
+    "Stock Quantity": 5,
+    "Description": "High-quality Power Steering Pump designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO013",
+    "Name": "Tow Hook",
+    "Unit Price": 754.61,
+    "Stock Quantity": 65,
+    "Description": "High-quality Tow Hook designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO014",
+    "Name": "Shock Absorbers",
+    "Unit Price": 121.87,
+    "Stock Quantity": 98,
+    "Description": "High-quality Shock Absorbers designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO015",
+    "Name": "Window Regulator",
+    "Unit Price": 49.3,
+    "Stock Quantity": 17,
+    "Description": "High-quality Window Regulator designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO016",
+    "Name": "Custom Wheels",
+    "Unit Price": 725.34,
+    "Stock Quantity": 63,
+    "Description": "High-quality Custom Wheels designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO017",
+    "Name": "Trunk Lock",
+    "Unit Price": 872.87,
+    "Stock Quantity": 80,
+    "Description": "High-quality Trunk Lock designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO018",
+    "Name": "Clutch Kit",
+    "Unit Price": 192.32,
+    "Stock Quantity": 18,
+    "Description": "High-quality Clutch Kit designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO019",
+    "Name": "Oil Filter",
+    "Unit Price": 898.53,
+    "Stock Quantity": 73,
+    "Description": "High-quality Oil Filter designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO020",
+    "Name": "Intercooler",
+    "Unit Price": 208.63,
+    "Stock Quantity": 56,
+    "Description": "High-quality Intercooler designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO021",
+    "Name": "Nerf Bars",
+    "Unit Price": 871.31,
+    "Stock Quantity": 82,
+    "Description": "High-quality Nerf Bars designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO022",
+    "Name": "Radar Detector",
+    "Unit Price": 883.02,
+    "Stock Quantity": 50,
+    "Description": "High-quality Radar Detector designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO023",
+    "Name": "LED Light Bar",
+    "Unit Price": 570.79,
+    "Stock Quantity": 1,
+    "Description": "High-quality LED Light Bar designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO024",
+    "Name": "Trunk Lock",
+    "Unit Price": 129.33,
+    "Stock Quantity": 100,
+    "Description": "High-quality Trunk Lock designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO025",
+    "Name": "Seat Covers",
+    "Unit Price": 212.9,
+    "Stock Quantity": 50,
+    "Description": "High-quality Seat Covers designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO026",
+    "Name": "Tailgate Handle",
+    "Unit Price": 657.6,
+    "Stock Quantity": 97,
+    "Description": "High-quality Tailgate Handle designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO027",
+    "Name": "Control Arm",
+    "Unit Price": 892.28,
+    "Stock Quantity": 39,
+    "Description": "High-quality Control Arm designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO028",
+    "Name": "Engine Oil",
+    "Unit Price": 43.02,
+    "Stock Quantity": 74,
+    "Description": "High-quality Engine Oil designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO029",
+    "Name": "Transmission Fluid",
+    "Unit Price": 821.43,
+    "Stock Quantity": 54,
+    "Description": "High-quality Transmission Fluid designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO030",
+    "Name": "Engine Mount",
+    "Unit Price": 595.66,
+    "Stock Quantity": 49,
+    "Description": "High-quality Engine Mount designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO031",
+    "Name": "Grille",
+    "Unit Price": 452.19,
+    "Stock Quantity": 4,
+    "Description": "High-quality Grille designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO032",
+    "Name": "Performance Chip",
+    "Unit Price": 396.48,
+    "Stock Quantity": 25,
+    "Description": "High-quality Performance Chip designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO033",
+    "Name": "GPS Navigation",
+    "Unit Price": 584.1,
+    "Stock Quantity": 1,
+    "Description": "High-quality GPS Navigation designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO034",
+    "Name": "Engine Oil",
+    "Unit Price": 420.31,
+    "Stock Quantity": 67,
+    "Description": "High-quality Engine Oil designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO035",
+    "Name": "Strut Tower Brace",
+    "Unit Price": 359.47,
+    "Stock Quantity": 70,
+    "Description": "High-quality Strut Tower Brace designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO036",
+    "Name": "Performance Clutch",
+    "Unit Price": 238.14,
+    "Stock Quantity": 80,
+    "Description": "High-quality Performance Clutch designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO037",
+    "Name": "Control Arm",
+    "Unit Price": 236.65,
+    "Stock Quantity": 75,
+    "Description": "High-quality Control Arm designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO038",
+    "Name": "HID Headlights",
+    "Unit Price": 740.79,
+    "Stock Quantity": 74,
+    "Description": "High-quality HID Headlights designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO039",
+    "Name": "Tailgate Handle",
+    "Unit Price": 847.85,
+    "Stock Quantity": 1,
+    "Description": "High-quality Tailgate Handle designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO040",
+    "Name": "Harness Bar",
+    "Unit Price": 175.46,
+    "Stock Quantity": 8,
+    "Description": "High-quality Harness Bar designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO041",
+    "Name": "Turbocharger",
+    "Unit Price": 752.81,
+    "Stock Quantity": 3,
+    "Description": "High-quality Turbocharger designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO042",
+    "Name": "Floor Mats",
+    "Unit Price": 309.67,
+    "Stock Quantity": 59,
+    "Description": "High-quality Floor Mats designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO043",
+    "Name": "Fuel Pump",
+    "Unit Price": 671.96,
+    "Stock Quantity": 52,
+    "Description": "High-quality Fuel Pump designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO044",
+    "Name": "Harness Bar",
+    "Unit Price": 135.43,
+    "Stock Quantity": 72,
+    "Description": "High-quality Harness Bar designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO045",
+    "Name": "Performance Chip",
+    "Unit Price": 333.57,
+    "Stock Quantity": 5,
+    "Description": "High-quality Performance Chip designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO046",
+    "Name": "Spark Plug",
+    "Unit Price": 920.7,
+    "Stock Quantity": 12,
+    "Description": "High-quality Spark Plug designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO047",
+    "Name": "Timing Belt",
+    "Unit Price": 493.23,
+    "Stock Quantity": 10,
+    "Description": "High-quality Timing Belt designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO048",
+    "Name": "Alternator",
+    "Unit Price": 507.8,
+    "Stock Quantity": 92,
+    "Description": "High-quality Alternator designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO049",
+    "Name": "Hood Latch",
+    "Unit Price": 727.94,
+    "Stock Quantity": 60,
+    "Description": "High-quality Hood Latch designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO050",
+    "Name": "Trunk Lock",
+    "Unit Price": 382.14,
+    "Stock Quantity": 65,
+    "Description": "High-quality Trunk Lock designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO051",
+    "Name": "Spark Plug",
+    "Unit Price": 576.56,
+    "Stock Quantity": 41,
+    "Description": "High-quality Spark Plug designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO052",
+    "Name": "Big Brake Kit",
+    "Unit Price": 858.79,
+    "Stock Quantity": 6,
+    "Description": "High-quality Big Brake Kit designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO053",
+    "Name": "Big Brake Kit",
+    "Unit Price": 961.92,
+    "Stock Quantity": 93,
+    "Description": "High-quality Big Brake Kit designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO054",
+    "Name": "All-Terrain Tires",
+    "Unit Price": 486.59,
+    "Stock Quantity": 66,
+    "Description": "High-quality All-Terrain Tires designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO055",
+    "Name": "Clutch Kit",
+    "Unit Price": 466.61,
+    "Stock Quantity": 57,
+    "Description": "High-quality Clutch Kit designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO056",
+    "Name": "Spark Plug",
+    "Unit Price": 980.27,
+    "Stock Quantity": 59,
+    "Description": "High-quality Spark Plug designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO057",
+    "Name": "Crankshaft Sensor",
+    "Unit Price": 441.68,
+    "Stock Quantity": 67,
+    "Description": "High-quality Crankshaft Sensor designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO058",
+    "Name": "Mass Air Flow Sensor",
+    "Unit Price": 421.27,
+    "Stock Quantity": 64,
+    "Description": "High-quality Mass Air Flow Sensor designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO059",
+    "Name": "Floor Mats",
+    "Unit Price": 233.13,
+    "Stock Quantity": 91,
+    "Description": "High-quality Floor Mats designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO060",
+    "Name": "Supercharger",
+    "Unit Price": 985.3,
+    "Stock Quantity": 2,
+    "Description": "High-quality Supercharger designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO061",
+    "Name": "Seat Covers",
+    "Unit Price": 790.72,
+    "Stock Quantity": 31,
+    "Description": "High-quality Seat Covers designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO062",
+    "Name": "Radar Detector",
+    "Unit Price": 83.38,
+    "Stock Quantity": 30,
+    "Description": "High-quality Radar Detector designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO063",
+    "Name": "Brake Fluid",
+    "Unit Price": 229.22,
+    "Stock Quantity": 83,
+    "Description": "High-quality Brake Fluid designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO064",
+    "Name": "Car Battery",
+    "Unit Price": 803.94,
+    "Stock Quantity": 56,
+    "Description": "High-quality Car Battery designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO065",
+    "Name": "Brake Rotors",
+    "Unit Price": 931.93,
+    "Stock Quantity": 74,
+    "Description": "High-quality Brake Rotors designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO066",
+    "Name": "Bumper Cover",
+    "Unit Price": 67.4,
+    "Stock Quantity": 89,
+    "Description": "High-quality Bumper Cover designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO067",
+    "Name": "CV Axle",
+    "Unit Price": 455.96,
+    "Stock Quantity": 84,
+    "Description": "High-quality CV Axle designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO068",
+    "Name": "Taillights",
+    "Unit Price": 270.47,
+    "Stock Quantity": 27,
+    "Description": "High-quality Taillights designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO069",
+    "Name": "Strut Tower Brace",
+    "Unit Price": 928.16,
+    "Stock Quantity": 70,
+    "Description": "High-quality Strut Tower Brace designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO070",
+    "Name": "Floor Mats",
+    "Unit Price": 935.07,
+    "Stock Quantity": 84,
+    "Description": "High-quality Floor Mats designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO071",
+    "Name": "Coolant",
+    "Unit Price": 767.91,
+    "Stock Quantity": 72,
+    "Description": "High-quality Coolant designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO072",
+    "Name": "Hood Latch",
+    "Unit Price": 477.67,
+    "Stock Quantity": 27,
+    "Description": "High-quality Hood Latch designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO073",
+    "Name": "Catalytic Converter",
+    "Unit Price": 687.03,
+    "Stock Quantity": 28,
+    "Description": "High-quality Catalytic Converter designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO074",
+    "Name": "Performance Chip",
+    "Unit Price": 727.17,
+    "Stock Quantity": 40,
+    "Description": "High-quality Performance Chip designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO075",
+    "Name": "Oil Filter",
+    "Unit Price": 799.65,
+    "Stock Quantity": 42,
+    "Description": "High-quality Oil Filter designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO076",
+    "Name": "Winch",
+    "Unit Price": 856.94,
+    "Stock Quantity": 80,
+    "Description": "High-quality Winch designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO077",
+    "Name": "Winch",
+    "Unit Price": 105.14,
+    "Stock Quantity": 43,
+    "Description": "High-quality Winch designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO078",
+    "Name": "Winch",
+    "Unit Price": 102.26,
+    "Stock Quantity": 14,
+    "Description": "High-quality Winch designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO079",
+    "Name": "Fuel Injectors",
+    "Unit Price": 112.64,
+    "Stock Quantity": 56,
+    "Description": "High-quality Fuel Injectors designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO080",
+    "Name": "Floor Mats",
+    "Unit Price": 505.27,
+    "Stock Quantity": 91,
+    "Description": "High-quality Floor Mats designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO081",
+    "Name": "Coolant",
+    "Unit Price": 40.9,
+    "Stock Quantity": 39,
+    "Description": "High-quality Coolant designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO082",
+    "Name": "Water Pump",
+    "Unit Price": 932.51,
+    "Stock Quantity": 74,
+    "Description": "High-quality Water Pump designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO083",
+    "Name": "Seat Covers",
+    "Unit Price": 342.35,
+    "Stock Quantity": 44,
+    "Description": "High-quality Seat Covers designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO084",
+    "Name": "Alternator",
+    "Unit Price": 347.5,
+    "Stock Quantity": 73,
+    "Description": "High-quality Alternator designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO085",
+    "Name": "Alternator",
+    "Unit Price": 971.8,
+    "Stock Quantity": 76,
+    "Description": "High-quality Alternator designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO086",
+    "Name": "Fuel Tank",
+    "Unit Price": 903.02,
+    "Stock Quantity": 32,
+    "Description": "High-quality Fuel Tank designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO087",
+    "Name": "Head Gasket",
+    "Unit Price": 956.83,
+    "Stock Quantity": 11,
+    "Description": "High-quality Head Gasket designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO088",
+    "Name": "LED Light Bar",
+    "Unit Price": 260.14,
+    "Stock Quantity": 6,
+    "Description": "High-quality LED Light Bar designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO089",
+    "Name": "Water Pump",
+    "Unit Price": 514.64,
+    "Stock Quantity": 90,
+    "Description": "High-quality Water Pump designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO090",
+    "Name": "CV Axle",
+    "Unit Price": 856,
+    "Stock Quantity": 89,
+    "Description": "High-quality CV Axle designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO091",
+    "Name": "Camshaft Sensor",
+    "Unit Price": 524.24,
+    "Stock Quantity": 59,
+    "Description": "High-quality Camshaft Sensor designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO092",
+    "Name": "Serpentine Belt",
+    "Unit Price": 387.48,
+    "Stock Quantity": 92,
+    "Description": "High-quality Serpentine Belt designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO093",
+    "Name": "Catalytic Converter",
+    "Unit Price": 18.93,
+    "Stock Quantity": 44,
+    "Description": "High-quality Catalytic Converter designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO094",
+    "Name": "Short Shifter",
+    "Unit Price": 244.95,
+    "Stock Quantity": 59,
+    "Description": "High-quality Short Shifter designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO095",
+    "Name": "Cargo Liner",
+    "Unit Price": 723.51,
+    "Stock Quantity": 90,
+    "Description": "High-quality Cargo Liner designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO096",
+    "Name": "Thermostat",
+    "Unit Price": 798.86,
+    "Stock Quantity": 38,
+    "Description": "High-quality Thermostat designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO097",
+    "Name": "Backup Camera",
+    "Unit Price": 933.87,
+    "Stock Quantity": 60,
+    "Description": "High-quality Backup Camera designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO098",
+    "Name": "Throttle Body",
+    "Unit Price": 129.9,
+    "Stock Quantity": 23,
+    "Description": "High-quality Throttle Body designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO099",
+    "Name": "Window Regulator",
+    "Unit Price": 683.03,
+    "Stock Quantity": 14,
+    "Description": "High-quality Window Regulator designed for durability and performance."
+  },
+  {
+    "Product ID": "AUTO100",
+    "Name": "Fuel Pump",
+    "Unit Price": 974.88,
+    "Stock Quantity": 13,
+    "Description": "High-quality Fuel Pump designed for durability and performance."
+  }
+]
