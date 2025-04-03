@@ -9,8 +9,8 @@ import os
 app = FastAPI()
 
 # MongoDB setup
-client = MongoClient("mongodb://localhost:27017/")
-db = client["inventory_db"]
+client = MongoClient("mongodb://root:example@localhost:27017/")
+db = client["Assignment"]
 collection = db["products"]
 
 # Load CSV data into MongoDB

@@ -3,7 +3,7 @@ import httpx
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "http://127.0.0.1:8081"
 
 class TestFastAPIEndpoints(unittest.TestCase):
     def test_read_root(self):
