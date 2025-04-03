@@ -8,13 +8,13 @@ BASE_URL = "http://127.0.0.1:8000"
 class TestFastAPIEndpoints(unittest.TestCase):
     def test_read_root(self):
         response = httpx.get(f"{BASE_URL}/")
-        self.assertIn(response.status_code, [200, 404])  # Adjusted to handle 404
+        self.assertIn(response.status_code, [200, 404])  
         if response.status_code == 200:
             self.assertIn("Hello", response.json())
 
     def test_get_single_product(self):
         response = httpx.get(f"{BASE_URL}/getSingleProduct", params={"product_id": 1})
-        self.assertIn(response.status_code, [200, 404])  # Adjusted to handle 404
+        self.assertIn(response.status_code, [200, 404])  
         if response.status_code == 200:
             self.assertEqual(response.json()["id"], 1)
 
@@ -32,7 +32,7 @@ class TestFastAPIEndpoints(unittest.TestCase):
             "quantity": 300
         }
         response = httpx.post(f"{BASE_URL}/addNew", json=new_product)
-        self.assertIn(response.status_code, [200, 400])  # 400 if product already exists
+        self.assertIn(response.status_code, [200, 400])  
 
     def test_delete_one(self):
         response = httpx.delete(f"{BASE_URL}/deleteOne", params={"product_id": 3})
@@ -45,13 +45,13 @@ class TestFastAPIEndpoints(unittest.TestCase):
 
     def test_paginate(self):
         response = httpx.get(f"{BASE_URL}/paginate", params={"start_id": 1, "end_id": 2})
-        self.assertIn(response.status_code, [200, 422])  # Adjusted to handle 422
+        self.assertIn(response.status_code, [200, 422]) 
         if response.status_code == 200:
             self.assertIsInstance(response.json(), list)
 
     def test_convert(self):
         response = httpx.get(f"{BASE_URL}/convert", params={"product_id": 1})
-        self.assertIn(response.status_code, [200, 404, 422])  # Adjusted to handle 422
+        self.assertIn(response.status_code, [200, 404, 422])  
 
 def generate_pdf_report(results):
     pdf_path = "test_results.pdf"

@@ -45,8 +45,8 @@ class ConvertInput(BaseModel):
     product_id: int = Field(..., ge=0)
 
 @app.get("/getSingleProduct")
-def get_single_product(product_id: int):
-    product = collection.find_one({"id": product_id})
+def get_single_product(product_id: str):
+    product = collection.find_one({"id": product_id})  
     if product:
         return product
     raise HTTPException(status_code=404, detail="Product not found")
